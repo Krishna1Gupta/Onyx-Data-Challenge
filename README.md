@@ -33,7 +33,7 @@ Tools Used 🛠️:
 Power BI - Data Visualization 📊
 Python - Data Preprocessing
 
-
+## Preview of the Dashboard
 
 ![dashboard](https://github.com/Krishna1Gupta/Onyx-Data-Challenge/assets/124741675/940dade5-05a5-4dca-af91-fe12bb935e2e)
 
